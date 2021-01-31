@@ -1,6 +1,6 @@
 # FCC: Survey Form
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/deleit/pen/yLaYEgR](https://codepen.io/deleit/pen/yLaYEgR).
+A Pen created on CodePen.io. Original URL: [https://codepen.io/deleit/full/yLaYEgR](https://codepen.io/deleit/full/yLaYEgR).
 
 <h3>A survey form page made with CodePen as a project for the FreeCodeCamp's Responsive Web Design curriculum. It had to fulfill the below user stories and get all of the tests to pass:</h3>
 
@@ -37,3 +37,5 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/deleit/pen/yLaYEg
 <i>User Story #15: Inside the form element, I am presented with a textarea at the end for additional comments.</i>
 
 <i>User Story #16: Inside the form element, I am presented with a button with id="submit" to submit all my inputs."</i>
+
+It's not very responsive, and some bars aren't with the same size.
